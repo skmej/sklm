@@ -1,0 +1,179 @@
+{
+  "uid" : "878a7bdfb64b842a",
+  "name" : "test_01_success[新闻-9-1-483c6774db1fb6010e0504d76df97b01]",
+  "fullName" : "scripts.test_news.Test_news#test_01_success",
+  "historyId" : "880a1f3d1391f81a3b9129b870bf44b5",
+  "time" : {
+    "start" : 1666696316266,
+    "stop" : 1666696316528,
+    "duration" : 262
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Test_news",
+    "time" : {
+      "start" : 1666696316265,
+      "stop" : 1666696316265,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_xunit_setup_class_fixture_Test_news",
+    "time" : {
+      "start" : 1666696315910,
+      "stop" : 1666696315911,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_Test_news",
+    "time" : {
+      "start" : 1666696316558,
+      "stop" : 1666696316558,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "33a658914a595351",
+      "name" : "log",
+      "source" : "33a658914a595351.txt",
+      "type" : "text/plain",
+      "size" : 102
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_Test_news::0",
+    "time" : {
+      "start" : 1666696316546,
+      "stop" : 1666696316549,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_xunit_setup_class_fixture_Test_news::0",
+    "time" : {
+      "start" : 1666696316996,
+      "stop" : 1666696316996,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_Test_news::0",
+    "time" : {
+      "start" : 1666696316833,
+      "stop" : 1666696316835,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "频道"
+  }, {
+    "name" : "feature",
+    "value" : "新闻"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_news"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_news"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-50MNR88"
+  }, {
+    "name" : "thread",
+    "value" : "10964-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_news"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "appkey",
+    "value" : "'483c6774db1fb6010e0504d76df97b01'"
+  }, {
+    "name" : "channel",
+    "value" : "'新闻'"
+  }, {
+    "name" : "num",
+    "value" : "'9'"
+  }, {
+    "name" : "start",
+    "value" : "'1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "878a7bdfb64b842a.json",
+  "parameterValues" : [ "'483c6774db1fb6010e0504d76df97b01'", "'新闻'", "'9'", "'1'" ]
+}

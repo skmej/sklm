@@ -1,0 +1,65 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "新闻",
+    "children" : [ {
+      "name" : "频道",
+      "children" : [ {
+        "name" : "test_01_success[头条-10-0-483c6774db1fb6010e0504d76df97b01]",
+        "uid" : "2964c2f450fe4da1",
+        "parentUid" : "f5863450585a323e124b327e12cabd6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666696315912,
+          "stop" : 1666696316253,
+          "duration" : 341
+        },
+        "flaky" : false,
+        "parameters" : [ "'483c6774db1fb6010e0504d76df97b01'", "'头条'", "'10'", "'0'" ]
+      }, {
+        "name" : "test_01_success[新闻-9-1-483c6774db1fb6010e0504d76df97b01]",
+        "uid" : "878a7bdfb64b842a",
+        "parentUid" : "f5863450585a323e124b327e12cabd6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666696316266,
+          "stop" : 1666696316528,
+          "duration" : 262
+        },
+        "flaky" : false,
+        "parameters" : [ "'483c6774db1fb6010e0504d76df97b01'", "'新闻'", "'9'", "'1'" ]
+      }, {
+        "name" : "test_01_success[体育-8-2-483c6774db1fb6010e0504d76df97b01]",
+        "uid" : "3b4786d21e67ac2b",
+        "parentUid" : "f5863450585a323e124b327e12cabd6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666696316559,
+          "stop" : 1666696316827,
+          "duration" : 268
+        },
+        "flaky" : false,
+        "parameters" : [ "'483c6774db1fb6010e0504d76df97b01'", "'体育'", "'8'", "'2'" ]
+      } ],
+      "uid" : "f5863450585a323e124b327e12cabd6c"
+    }, {
+      "name" : "key错误",
+      "children" : [ {
+        "name" : "test_02_key_error",
+        "uid" : "ce10c4ea1a84939e",
+        "parentUid" : "e03b5c30503c221236397e953a9f88fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666696316839,
+          "stop" : 1666696316991,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e03b5c30503c221236397e953a9f88fb"
+    } ],
+    "uid" : "5bd31d6eb11b7fc1fe6603f4930e240a"
+  } ]
+}
